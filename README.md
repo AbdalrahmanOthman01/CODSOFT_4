@@ -18,7 +18,7 @@ This project involves predicting future sales of a product by analyzing various 
 **How to Run**:
 1. Clone the repository
 2. Install required dependencies using `pip install -r requirements.txt`
-3. Run the notebook `sales_prediction.py`
+3. Run the notebook `sales_prediction.ipynb`
 
 ---
 
@@ -28,4 +28,4 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AbdalrahmanOthman01/CODSOFT_1.git
+   git clone https://github.com/AbdalrahmanOthman01/CODSOFT_4.git
